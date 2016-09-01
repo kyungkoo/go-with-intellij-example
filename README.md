@@ -1,2 +1,2 @@
 # go-with-intellij-example
-Eample Go Project using Intellij
+Example Go Project using Intellij
